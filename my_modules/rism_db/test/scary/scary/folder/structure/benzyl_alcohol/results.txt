@@ -1,0 +1,4 @@
+dGhyd(KH)= 1.61092676E+001 kcal/mol
+dGhyd(GF)= 8.22763648E+000 kcal/mol
+PMV= 1.52620574E+002 AA^3
+dGhyd(UC)= -7.56759703842 kcal/mol

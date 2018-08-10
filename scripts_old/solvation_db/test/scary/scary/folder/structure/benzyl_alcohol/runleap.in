@@ -1,0 +1,7 @@
+source leaprc.gaff 
+loadamberprep benzyl_alcohol.prepin
+check MOL
+loadamberparams benzyl_alcohol.frcmod
+SaveAmberParm MOL benzyl_alcohol.prmtop benzyl_alcohol.incrd
+SavePdb MOL benzyl_alcohol.pdb
+quit

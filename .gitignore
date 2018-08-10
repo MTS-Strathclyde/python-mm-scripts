@@ -1,0 +1,6 @@
+*.log
+*.pyc
+*.git/
+*~
+*.egg
+.ipynb_checkpoints/*

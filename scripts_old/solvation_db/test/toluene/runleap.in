@@ -1,0 +1,7 @@
+source leaprc.gaff 
+loadamberprep toluene.prepin
+check MOL
+loadamberparams toluene.frcmod
+SaveAmberParm MOL toluene.prmtop toluene.incrd
+SavePdb MOL toluene.pdb
+quit
